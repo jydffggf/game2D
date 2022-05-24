@@ -30,7 +30,7 @@ import Scoreboard
 #Game1.Play()
 
 
-S1 = Scoreboard.Scoreboard
+S1 = Scoreboard.Scoreboard()
 #S1.FilltheScoreboard()
 S1.Display()
 
