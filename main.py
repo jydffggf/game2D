@@ -26,11 +26,3 @@ S1.Save("player10", 17)
 
 
 
-# dodanie/zmiana plików repozytorium
-# git status
-# git add .
-# git commit -m "..."
-# git push -u origin master
-
-
-
